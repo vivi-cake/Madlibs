@@ -2,15 +2,14 @@
 
 MadLibs is a Java application that generates a silly story based on user-provided words.  
 The program prompts the user for a series of inputs (nouns, adjectives, verbs, etc.) and incorporates them into a predefined narrative template.  
-This project demonstrates fundamental Java concepts including methods, parameter passing, string manipulation, and user interaction through the `Scanner` class.
+This project demonstrates Java concepts such as methods, parameter passing, string manipulation, and using the `Scanner` class.
 
 ---
 
 ## Features
 - Prompts the user for various word types (e.g., nouns, adjectives, verbs).  
 - Dynamically constructs a personalized fantasy story.  
-- Encapsulates functionality into modular methods (`getWord`, `generateStory`).  
-- Highlights beginner-friendly use of string concatenation and console input.  
+- Shows functionality through various funtions (`getWord`, `generateStory`, etc.).  
 
 ---
 
