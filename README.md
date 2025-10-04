@@ -20,11 +20,13 @@ This project demonstrates fundamental Java concepts including methods, parameter
   <img width="449" height="79" alt="Screenshot 2025-10-03 at 11 02 08 PM" src="https://github.com/user-attachments/assets/10402d2c-40aa-47a4-8d81-477917b176c5" />
 
 - **Milestone 2:** Developed the `generateStory` method to intialize the Mad Lib.
+  
    <img width="771" height="342" alt="Screenshot 2025-10-03 at 11 03 44 PM" src="https://github.com/user-attachments/assets/6057cbea-0766-48cf-b3a0-240e7f833b13" />
 
 - **Milestone 3:** Created main method that stored user input and printed the final story.
    
- 
+   <img width="779" height="692" alt="Screenshot 2025-10-03 at 11 05 59 PM" src="https://github.com/user-attachments/assets/1c520282-bc6b-4bca-bcb9-70546a95a1aa" />
+
 
 ---
 
