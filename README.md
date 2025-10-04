@@ -1,4 +1,4 @@
-#MadLibs
+## MadLibs
 
 MadLibs is a Java application that generates a silly story based on user-provided words.  
 The program prompts the user for a series of inputs (nouns, adjectives, verbs, etc.) and incorporates them into a predefined narrative template.  
