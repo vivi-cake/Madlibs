@@ -32,6 +32,8 @@ This project demonstrates fundamental Java concepts including methods, parameter
 
 ## Functionality!!!
 
+<img width="1526" height="353" alt="Screenshot 2025-10-03 at 11 10 54 PM" src="https://github.com/user-attachments/assets/1cf36f94-4da1-4aea-a29b-7f7facf82a7c" />
+
 
 
 
