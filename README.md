@@ -16,6 +16,7 @@ This project demonstrates fundamental Java concepts including methods, parameter
 
 ## Milestones + Photos!!!
 - **Milestone 1:** Developed the `getWord` method to ask for user input.
+  
   <img width="449" height="79" alt="Screenshot 2025-10-03 at 11 02 08 PM" src="https://github.com/user-attachments/assets/10402d2c-40aa-47a4-8d81-477917b176c5" />
 
 - **Milestone 2:** Developed the `generateStory` method to intialize the Mad Lib.
