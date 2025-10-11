@@ -9,7 +9,7 @@ This project demonstrates Java concepts such as methods, parameter passing, stri
 ## Features
 - Prompts the user for various word types (e.g., nouns, adjectives, verbs).  
 - Dynamically constructs a personalized fantasy story.  
-- Shows functionality through various funtions (`getWord`, `generateStory`, etc.).  
+- Shows functionality through various funtions (`getWord` and `main`). 
 
 ---
 
@@ -26,12 +26,24 @@ This project demonstrates Java concepts such as methods, parameter passing, stri
    
    <img width="779" height="692" alt="Screenshot 2025-10-03 at 11 05 59 PM" src="https://github.com/user-attachments/assets/1c520282-bc6b-4bca-bcb9-70546a95a1aa" />
 
+- **Milestone 4:** Changed code to follow new rubric and use replace method.
+  <img width="372" height="624" alt="Screenshot 2025-10-10 at 10 55 44 PM" src="https://github.com/user-attachments/assets/358e9823-0628-4f18-a53c-6b9800030a98" />
+
+
 
 ---
 
 ## Functionality!!!
+- **Test Case 1:**
+<img width="606" height="445" alt="Screenshot 2025-10-10 at 10 51 52 PM" src="https://github.com/user-attachments/assets/e8e6413e-dd18-48ce-803e-3899f385a783" />
 
-<img width="1526" height="353" alt="Screenshot 2025-10-03 at 11 10 54 PM" src="https://github.com/user-attachments/assets/1cf36f94-4da1-4aea-a29b-7f7facf82a7c" />
+- **Test Case 2:**
+<img width="510" height="412" alt="Screenshot 2025-10-10 at 11 01 12 PM" src="https://github.com/user-attachments/assets/c3e75e5a-b126-4e65-a52e-db0b953dad98" />
+
+- **Test Case 3:**
+<img width="492" height="380" alt="Screenshot 2025-10-10 at 11 04 55 PM" src="https://github.com/user-attachments/assets/d695f49a-d55d-42e4-9e22-18090800bdd7" />
+
+
 
 
 
